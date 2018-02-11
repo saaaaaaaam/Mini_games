@@ -1,0 +1,13 @@
+﻿  clock.cpp
+d:\desktop\mini_games\clock\clock\clock.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(51): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(53): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(54): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(56): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(57): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\desktop\mini_games\clock\clock\clock.cpp(89): warning C4551: 缺少参数列表的函数调用
+  clock.vcxproj -> D:\desktop\mini_games\clock\Debug\clock.exe
