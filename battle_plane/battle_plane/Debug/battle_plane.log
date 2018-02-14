@@ -1,2 +1,3 @@
 ﻿  battle_plane.cpp
-  battle_plane.vcxproj -> D:\desktop\mini_games\battle_plane\Debug\battle_plane.exe
+d:\desktop\mini_games\battle_plane\battle_plane\battle_plane.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  battle_plane.vcxproj -> D:\desktop\Mini_games\battle_plane\Debug\battle_plane.exe
